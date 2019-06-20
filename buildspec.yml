@@ -1,0 +1,21 @@
+version: 1.0
+
+phases:
+  build:
+    commands:
+      - echo Nothing to do yet
+
+artifacts:
+  files:
+    - index.html
+    - about.html
+    - blog.html
+    - conatct.html
+    - services.html
+    - work.html
+    - work-single.html
+    - js/*
+    - css/*
+    - scss/*
+    - images/*
+    - fonts/*
